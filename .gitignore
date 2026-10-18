@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+.gradle/
+**/build/
+
+# Java
+*.class
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
